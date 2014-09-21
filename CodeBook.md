@@ -5,6 +5,7 @@ The data contained in tidyDataSet.txt consist in 180 observation of 81 variables
 - Subject -: 30 volunteers were subjects of the experiments recorded in this data, their are label from 1 to 30
 
 - Activity-: The possible activities are the following:
+
 1. STANDING
 2. SITTING
 3. LAYING
